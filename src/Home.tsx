@@ -941,6 +941,11 @@ const Home = (props: HomeProps) => {
                         <span className="tw-text-white-1 tw-ml-2 Sidebar_label__3Wp_O">
                           Home
                         </span>
+                                                            <a
+                                                                target="_blank"
+                                                                rel="noopener noreferrer"
+                                                                href="https://magiceden.io/"
+                                                            >
                       </a>
                     </div>
                   </li>
